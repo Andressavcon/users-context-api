@@ -4,6 +4,10 @@
 
 Este projeto é uma aplicação React que utiliza a Context API para gerenciar uma lista de usuários. Os usuários podem adicionar novos nomes à lista e removê-los conforme necessário. É uma demonstração prática de como usar o Context API para gerenciar estados globais em uma aplicação React.
 
+## Link da Aplicação 🔗
+
+[Users Context API](https://users-contextapi.netlify.app/)
+
 ## Objetivos do Projeto 📌
 
 - Demonstrar o uso da Context API para gerenciar estado global.
@@ -16,5 +20,3 @@ Este projeto é uma aplicação React que utiliza a Context API para gerenciar u
 - TypeScript
 - Context API
 - CSS Modules
-
-## Link da Aplicação 🔗
